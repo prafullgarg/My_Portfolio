@@ -9,55 +9,6 @@ const Projects = () => {
     title:'Texormer',
     github:'https://github.com/prafullgarg/texormer',
     demo:'https://prafullgarg.github.io/texormer/'
-    },
-    {
-    id:2,
-    image:Texormer,
-    title:'Texormer',
-    github:'https://github.com/prafullgarg/texormer',
-    demo:'https://prafullgarg.github.io/texormer/'
-    },
-    {
-    id:3,
-    image:Texormer,
-    title:'Texormer',
-    github:'https://github.com/prafullgarg/texormer',
-    demo:'https://prafullgarg.github.io/texormer/'
-    },
-    {
-    id:5,
-    image:Texormer,
-    title:'Texormer',
-    github:'https://github.com/prafullgarg/texormer',
-    demo:'https://prafullgarg.github.io/texormer/'
-    },
-    {
-    id:6,
-    image:Texormer,
-    title:'Texormer',
-    github:'https://github.com/prafullgarg/texormer',
-    demo:'https://prafullgarg.github.io/texormer/'
-    },
-    {
-    id:7,
-    image:Texormer,
-    title:'Texormer',
-    github:'https://github.com/prafullgarg/texormer',
-    demo:'https://prafullgarg.github.io/texormer/'
-    },
-    {
-    id:8,
-    image:Texormer,
-    title:'Texormer',
-    github:'https://github.com/prafullgarg/texormer',
-    demo:'https://prafullgarg.github.io/texormer/'
-    },
-    {
-    id:9,
-    image:Texormer,
-    title:'Texormer',
-    github:'https://github.com/prafullgarg/texormer',
-    demo:'https://prafullgarg.github.io/texormer/'
     },]
   return (
     <section id="projects">

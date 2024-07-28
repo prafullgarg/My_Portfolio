@@ -14,36 +14,37 @@ const Experience = () => {
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
+                <h4>JavaScript</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>TypeScript</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>ReactJs</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
                 <h4>HTML</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediate</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <HiBadgeCheck className="experience__details-icon" />
-              <div>
-                <h4>JavaScript</h4>
-                <small className="text-light">Experienced</small>
-              </div>
-            </article>
-            <article className="experience__details">
-              <HiBadgeCheck className="experience__details-icon" />
-              <div>
-                <h4>Reactjs</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
                 <h4>Bootstrap</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
@@ -55,29 +56,31 @@ const Experience = () => {
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
-                <h4>Nodejs</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>NodeJs</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>ExpressJs</h4>
               </div>
             </article>
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
                 <h4>Mongodb</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
-                <h4>MySQL</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>SQL</h4>
               </div>
             </article>
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
@@ -86,11 +89,46 @@ const Experience = () => {
         <div className="experience__other">
           <h3>Others</h3>
           <div className="experience__content">
+          <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>RHEL(Linux)</h4>
+              </div>
+            </article>
             <article className="experience__details">
               <HiBadgeCheck className="experience__details-icon" />
               <div>
-                <h4>Python</h4>
-                <small className="text-light">Intermediate</small>
+                <h4>Problem Solving</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>DSA</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>OOPS</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>DBMS</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>Networking</h4>
+              </div>
+            </article>
+            <article className="experience__details">
+              <HiBadgeCheck className="experience__details-icon" />
+              <div>
+                <h4>Software Engineering</h4>
               </div>
             </article>
           </div>

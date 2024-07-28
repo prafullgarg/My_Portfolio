@@ -9,38 +9,38 @@ const Services = () => {
       <h2>Services</h2>
       <div className="container service__container">
         <article className="service">
-          <div className="service__head">
+          {/* <div className="service__head">
             <h3>Web Development</h3>
-          </div>
+          </div> */}
           <ul className="service__list">
             <li>
               <BiCheck/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Linux Administration</p>
             </li>
+            
             <li>
               <BiCheck/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Front-End Development</p>
             </li>
+
             <li>
               <BiCheck/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Back-End Development</p>
             </li>
+
             <li>
               <BiCheck/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Software Development</p>
             </li>
+
             <li>
               <BiCheck/>
-              <p>Lorem ipsum dolor sit amet.</p>
-            </li>
-            <li>
-              <BiCheck/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Devops</p>
             </li>
           </ul>
         </article>
         {/* END OF WEB DEVELOPMENT */}
-        <article className="service">
+        {/* <article className="service">
           <div className="service__head">
             <h3>UI/UX Design</h3>
           </div>
@@ -70,7 +70,7 @@ const Services = () => {
               <p>Lorem ipsum dolor sit amet.</p>
             </li>
           </ul>
-        </article>
+        </article> */}
         {/* END OF UI/UX DESIGN */}
 
       </div>

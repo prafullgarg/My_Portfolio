@@ -21,7 +21,8 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon"/>
               <h5>Experince</h5>
-              <small>Fresher</small>
+              <small>System Engineer</small> 
+              {/* <h5>Tata Consultancy Services</h5>  */}
             </article>
 
             <article className="about__card">
@@ -31,11 +32,7 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis
-            adipisci non illum sapiente quam. Corrupti quis sunt, aliquid
-            deserunt ea asperiores magnam reiciendis ad! Quas fugit quidem
-            delectus fugiat nesciunt doloribus voluptates, voluptatem ducimus.
-          </p>
+          Hello! I am Prafull Garg, a dedicated and passionate System Engineer at Tata Consultancy Services (TCS). With couple of months  experience in the IT industry.          </p>
           <button className="btn btn-primary"> Let's Talk</button>
         </div>
       </div>
